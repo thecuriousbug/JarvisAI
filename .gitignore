@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# PyCharm files
+.idea/
+*.iml
+config.cpython-39.pyc
+OpenAI
+config.py
